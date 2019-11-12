@@ -1,5 +1,5 @@
 # TIL & Homework
-!(https://swift.org/assets/images/swift.svg)
+![swift](https://swift.org/assets/images/swift.svg)
 
 ## Today I Learned
 
