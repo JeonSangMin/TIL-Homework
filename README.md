@@ -14,6 +14,8 @@
 
 [19.11.14 / Optional, Enumeration](https://jeonsangmin.github.io/2019/11/14/)
 
+[19.11.15 / Closure, Code Snippets](https://jeonsangmin.github.io/2019/11/15/)
+
 ---
 
 ## Homework
@@ -24,3 +26,6 @@
 [19.11.13 / Collection Type](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.13.playground/Contents.swift)
 
 [19.11.14 / Optional, Enumeration](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.14.playground/Contents.swift)
+
+- [19.11.15 / OOP?](https://jeonsangmin.github.io/2019/11/OOP/)
+- 
