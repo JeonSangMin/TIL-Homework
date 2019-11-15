@@ -27,5 +27,6 @@
 
 [19.11.14 / Optional, Enumeration](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.14.playground/Contents.swift)
 
-- [19.11.15 / OOP?](https://jeonsangmin.github.io/2019/11/OOP/)
-- 
+1. [19.11.15 / OOP?](https://jeonsangmin.github.io/2019/11/OOP/)
+
+2. [19.11.15 / Closure Syntax Optimization](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.15.playground/Contents.swift)
