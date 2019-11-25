@@ -16,7 +16,7 @@
 
 [19.11.15 / Closure, Code Snippets](https://jeonsangmin.github.io/2019/11/15/)
 
-[19.11.19 / Access Control]()
+[19.11.19 / Access Control](https://jeonsangmin.github.io/2019/11/19/)
 
 [19.11.21 / App Life Cycle](https://jeonsangmin.github.io/2019/11/21/)
 
@@ -41,4 +41,14 @@
 [19.11.18 / OOP](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.18.playground/Contents.swift)
 
 [19.11.19 / Inheritance](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.19.playground/Contents.swift)
+
+[19.11.21 / 버튼 누르면 숫자 가감하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.21)
+
+[19.11.21 / 알고리즘](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/Homework_11.21.playground/Contents.swift)
+
+[19.11.22 / Segmented Controll & Switch](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.22)
+
+[19.11.25 / ViewController 데이터 전달하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.25)
+
+
 
