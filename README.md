@@ -18,6 +18,12 @@
 
 [19.11.19 / Access Control]()
 
+[19.11.21 / App Life Cycle](https://jeonsangmin.github.io/2019/11/21/)
+
+[19.11.22 / UI Guide](https://jeonsangmin.github.io/2019/11/21/)
+
+[19.11.25 / View Controller Life Cycle](https://jeonsangmin.github.io/2019/11/25/)
+
 ---
 
 ## Homework
