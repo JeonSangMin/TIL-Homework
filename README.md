@@ -24,6 +24,8 @@
 
 [19.11.25 / View Controller Life Cycle](https://jeonsangmin.github.io/2019/11/25/)
 
+[19.11.26 / TextField & Alert Controller](https://jeonsangmin.github.io/2019/11/26/)
+
 ---
 
 ## Homework
@@ -49,6 +51,8 @@
 [19.11.22 / Segmented Controll & Switch](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.22)
 
 [19.11.25 / ViewController 데이터 전달하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.25)
+
+[19.11.24 / TextField 활성화, 비활성화 액션 지정하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.26)
 
 
 
