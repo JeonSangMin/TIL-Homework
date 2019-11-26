@@ -1,4 +1,4 @@
-![Swift](https://user-images.githubusercontent.com/15086391/69592827-914b4c00-103a-11ea-8fdb-e00b8e942906.png)  
+![Swift](https://user-images.githubusercontent.com/15086391/69593039-4978f480-103b-11ea-8961-8635257496f5.png)  
 
 
 # TIL & Homework  
