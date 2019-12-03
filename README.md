@@ -26,8 +26,7 @@
 
 [19.11.26 / TextField & Alert Controller](https://jeonsangmin.github.io/2019/11/26/)
 
-[19.12.03 / SegWay data Tranfer with StoryBoard](https://jeonsangmin.github.io/2019/12/3/)
----
+[19.12.03 / Segway Value transfer with StoryBoard](https://jeonsangmin.github.io/2019/12/3/)
 
 ## Homework
 [19.11.08 / Swift Basic](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/HomeWork_11_08.playground/Contents.swift)
