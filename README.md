@@ -26,6 +26,7 @@
 
 [19.11.26 / TextField & Alert Controller](https://jeonsangmin.github.io/2019/11/26/)
 
+[19.12.03 / SegWay data Tranfer with StoryBoard](https://jeonsangmin.github.io/2019/12/3/)
 ---
 
 ## Homework
@@ -54,5 +55,6 @@
 
 [19.11.26 / TextField 활성화, 비활성화 액션 지정하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.26)
 
+[19.12.03 / Segway 사용하여 값 넘기고 받기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_12.03/Homework_12.03)
 
 

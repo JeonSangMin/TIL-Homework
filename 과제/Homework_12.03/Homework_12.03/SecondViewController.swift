@@ -23,7 +23,7 @@ class SecondViewController: UIViewController {
     }
     
     @IBAction func plusCnts(_ sender: UIButton) {
-        guard let vc = presentingViewController as? ViewController else {return}
+        guard let vc = presentingViewController as? FirstViewController else {return}
         vc.Cnt += 1
     }
     
