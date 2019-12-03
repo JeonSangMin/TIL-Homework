@@ -9,12 +9,25 @@
 import UIKit
 
 class SecondViewController: UIViewController {
-
+    
+    @IBOutlet weak var lblAnimal: UILabel!
+    @IBOutlet weak var image: UIImageView!
+    //var plusCnt = 0
+    var text = ""
+    var imgName = UIImage(named: "dog")
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        lblAnimal.text = text
+        image.image = imgName
     }
+    
+    @IBAction func plusCnts(_ sender: UIButton) {
+        guard let vc = presentingViewController as? ViewController else {return}
+        vc.Cnt += 1
+    }
+    
+    
     
 
     /*
