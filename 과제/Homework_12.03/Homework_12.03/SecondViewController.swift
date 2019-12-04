@@ -12,19 +12,20 @@ class SecondViewController: UIViewController {
     
     @IBOutlet weak var lblAnimal: UILabel!
     @IBOutlet weak var image: UIImageView!
-    //var plusCnt = 0
     var text = ""
-    var imgName = UIImage(named: "dog")
+    var imageURL = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
         lblAnimal.text = text
-        image.image = imgName
+        image.image = UIImage(named: imageURL)
     }
     
     @IBAction func plusCnts(_ sender: UIButton) {
         guard let vc = presentingViewController as? FirstViewController else {return}
-        vc.Cnt += 1
+        vc.dogCnt < 3 ? vc.dogCnt += 1 : ()
+        vc.catCnt < 5 ? vc.catCnt += 1 : ()
+        vc.birdCnt < 7 ? vc.birdCnt += 1 : ()
     }
     
     

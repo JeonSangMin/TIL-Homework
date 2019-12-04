@@ -11,14 +11,12 @@ import UIKit
 // 클래스명은 바꾸겠는데 파일명을 못바꾸겠습니다 ㅜㅜ 그래도 실행은 잘 됩니다.
 class FirstViewController: UIViewController {
     
-    // UIImage 세팅
-    let dogImg = UIImage(named: "dog.jpg")
-    let catImg = UIImage(named: "cat.jpg")
-    let birdImg = UIImage(named: "bird.jpg")
-    
+
     // 전환 횟수 레이블, 변수
     @IBOutlet weak var lblCnt: UILabel!
-    var Cnt = 0
+    var dogCnt = 0
+    var catCnt = 0
+    var birdCnt = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,7 +24,7 @@ class FirstViewController: UIViewController {
     
     // 레이블 표기 시점 (viewWillAppear)
     override func viewWillAppear(_ animated: Bool) {
-        lblCnt.text = String(Cnt) + " 회"
+        lblCnt.text = String("🐶 : \(dogCnt) | 🐱 : \(catCnt) | 🐧 : \(birdCnt)")
     }
     
     // 세그로 값 넘기기
@@ -35,27 +33,27 @@ class FirstViewController: UIViewController {
         guard let SecondVC = segue.destination as? SecondViewController else {return}
         if segue.identifier == "dog" {
             SecondVC.text = "강아지"
-            SecondVC.imgName = dogImg
-            Cnt += 1
+            SecondVC.imageURL = "dog.jpg"
+            dogCnt += 1
         } else if segue.identifier == "cat" {
             SecondVC.text = "고양이"
-            SecondVC.imgName = catImg
-            Cnt += 1
+            SecondVC.imageURL = "cat.jpg"
+            catCnt += 1
         } else {
             SecondVC.text = "새"
-            SecondVC.imgName = birdImg
-            Cnt += 1
+            SecondVC.imageURL = "bird.jpg"
+            birdCnt += 1
         }
         
     }
     
     // 화면 전환 횟수 제약 걸기
     override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
-        if identifier == "dog" && Cnt >= 8 {
+        if identifier == "dog" && dogCnt >= 3 {
             return false
-        } else if identifier == "cat" && Cnt >= 10 {
+        } else if identifier == "cat" && catCnt >= 5 {
             return false
-        } else if identifier == "bird" && Cnt >= 15 {
+        } else if identifier == "bird" && birdCnt >= 7 {
             return false
         } else {
             return true
