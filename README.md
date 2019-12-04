@@ -1,8 +1,10 @@
 ![Swift](https://user-images.githubusercontent.com/15086391/69593039-4978f480-103b-11ea-8961-8635257496f5.png)  
 
 
-# TIL & Homework  
+# TIL & Homework
 
+아래 링크들은 제 블로그로 이동하는 링크입니다. 과제 파일들은 이 repo에 업데이트 됩니다.
+아래 과제 링크에는 결과물 영상이 포스팅 되어있는 제 블로그로 이동합니다. (12월 3일자부터)
 
 ## Today I Learned
 
@@ -54,6 +56,6 @@
 
 [19.11.26 / TextField 활성화, 비활성화 액션 지정하기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_11.26)
 
-[19.12.03 / Segway 사용하여 값 넘기고 받기](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/Homework_12.03/Homework_12.03)
+[19.12.03 / Segway 사용하여 값 넘기고 받기](https://jeonsangmin.github.io/2019/12/homework-1203/)
 
 
