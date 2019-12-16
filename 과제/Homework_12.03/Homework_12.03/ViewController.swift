@@ -27,9 +27,10 @@ class FirstViewController: UIViewController {
         lblCnt.text = String("🐶 : \(dogCnt) | 🐱 : \(catCnt) | 🐧 : \(birdCnt)")
     }
     
-    // 세그로 값 넘기기
+    // 세그를 이용하여 값 넘기기
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         super.prepare(for: segue, sender: sender)
+        // Model
         guard let SecondVC = segue.destination as? SecondViewController else {return}
         if segue.identifier == "dog" {
             SecondVC.text = "강아지"
@@ -49,6 +50,7 @@ class FirstViewController: UIViewController {
     
     // 화면 전환 횟수 제약 걸기
     override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        // Model
         if identifier == "dog" && dogCnt >= 3 {
             return false
         } else if identifier == "cat" && catCnt >= 5 {
