@@ -59,4 +59,6 @@
 
 [19.12.03 / Segway 사용하여 값 넘기고 받기](https://jeonsangmin.github.io/2019/12/homework-1203/)
 
+[19.12.14 로그인화면 구현하기](https://jeonsangmin.github.io/2019/12/homework-1214/)
 
+[19.12.16 Stack View](https://jeonsangmin.github.io/2019/12/homework-1216/)
