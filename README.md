@@ -83,4 +83,4 @@
 
 [19.12.18 / TableView Multiple Selection](https://jeonsangmin.github.io/2019/12/homework_1218/)
 
-[20.12.07 / GestureRecognizer](https://github.com/JeonSangMin/TIL-Homework/tree/master/%EA%B3%BC%EC%A0%9C/HomeWork_GestureRecognizer)
+[20.12.07 / GestureRecognizer](https://jeonsangmin.github.io/2020/01/01-07-HomeWork/)
