@@ -31,6 +31,24 @@
 
 [19.12.03 / Segway Value transfer with StoryBoard](https://jeonsangmin.github.io/2019/12/3/)
 
+[19.12.06 / Singleton & User Defaults](https://jeonsangmin.github.io/2019/12/6/)
+
+[19.12.09 / Struct, ARC](https://jeonsangmin.github.io/2019/12/9/)
+
+[19.12.10 / Delegate](https://jeonsangmin.github.io/2019/12/10/)
+
+[19.12.12 / Autolayout](https://jeonsangmin.github.io/2019/12/12/)
+
+[19.12.13 / Animation](https://jeonsangmin.github.io/2019/12/13/)
+
+[19.12.16 / Autolayout_2nd](https://jeonsangmin.github.io/2019/12/16/)
+
+[19.12.17 / UITable VIew](https://jeonsangmin.github.io/2019/12/17/)
+
+[20.01.06 / URl Scheme & ImagePicker](https://jeonsangmin.github.io/2020/01/06/)
+
+[20.01.07 / Gesture Recognizer](https://jeonsangmin.github.io/2020/01/07/)
+
 ## Homework
 [19.11.08 / Swift Basic](https://github.com/JeonSangMin/TIL-Homework/blob/master/%EA%B3%BC%EC%A0%9C/HomeWork_11_08.playground/Contents.swift)
 
@@ -64,3 +82,5 @@
 [19.12.16 / Stack View](https://jeonsangmin.github.io/2019/12/homework-1216/)
 
 [19.12.18 / TableView Multiple Selection](https://jeonsangmin.github.io/2019/12/homework_1218/)
+
+[20.12.07 / GestureRecognizer](https://jeonsangmin.github.io/2020/01/01-07-HomeWork/)
