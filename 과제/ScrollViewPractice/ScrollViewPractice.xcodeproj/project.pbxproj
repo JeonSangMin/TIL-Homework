@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F406731D23C5A17E00BBB1A5 /* GestureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F406731C23C5A17E00BBB1A5 /* GestureViewController.swift */; };
-		F406731F23C5A97800BBB1A5 /* DelegateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F406731E23C5A97800BBB1A5 /* DelegateViewController.swift */; };
-		F481FB5723C488D2002FFA96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F481FB5623C488D2002FFA96 /* AppDelegate.swift */; };
-		F481FB5923C488D2002FFA96 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F481FB5823C488D2002FFA96 /* SceneDelegate.swift */; };
-		F481FB5B23C488D2002FFA96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F481FB5A23C488D2002FFA96 /* ViewController.swift */; };
-		F481FB5E23C488D2002FFA96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F481FB5C23C488D2002FFA96 /* Main.storyboard */; };
-		F481FB6023C488DB002FFA96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F481FB5F23C488DB002FFA96 /* Assets.xcassets */; };
-		F481FB6323C488DB002FFA96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F481FB6123C488DB002FFA96 /* LaunchScreen.storyboard */; };
+		F489442B23C85DBD00B55C92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F489442A23C85DBD00B55C92 /* AppDelegate.swift */; };
+		F489442D23C85DBD00B55C92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F489442C23C85DBD00B55C92 /* SceneDelegate.swift */; };
+		F489442F23C85DBD00B55C92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F489442E23C85DBD00B55C92 /* ViewController.swift */; };
+		F489443223C85DBD00B55C92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F489443023C85DBD00B55C92 /* Main.storyboard */; };
+		F489443423C85DBE00B55C92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F489443323C85DBE00B55C92 /* Assets.xcassets */; };
+		F489443723C85DBE00B55C92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F489443523C85DBE00B55C92 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F406731C23C5A17E00BBB1A5 /* GestureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureViewController.swift; sourceTree = "<group>"; };
-		F406731E23C5A97800BBB1A5 /* DelegateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelegateViewController.swift; sourceTree = "<group>"; };
-		F481FB5323C488D2002FFA96 /* HomeWork_GestureRecognizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork_GestureRecognizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F481FB5623C488D2002FFA96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F481FB5823C488D2002FFA96 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F481FB5A23C488D2002FFA96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F481FB5D23C488D2002FFA96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F481FB5F23C488DB002FFA96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F481FB6223C488DB002FFA96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F481FB6423C488DB002FFA96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F489442723C85DBD00B55C92 /* ScrollViewPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F489442A23C85DBD00B55C92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F489442C23C85DBD00B55C92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		F489442E23C85DBD00B55C92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F489443123C85DBD00B55C92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F489443323C85DBE00B55C92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F489443623C85DBE00B55C92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F489443823C85DBE00B55C92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F481FB5023C488D2002FFA96 /* Frameworks */ = {
+		F489442423C85DBD00B55C92 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F481FB4A23C488D2002FFA96 = {
+		F489441E23C85DBD00B55C92 = {
 			isa = PBXGroup;
 			children = (
-				F481FB5523C488D2002FFA96 /* HomeWork_GestureRecognizer */,
-				F481FB5423C488D2002FFA96 /* Products */,
+				F489442923C85DBD00B55C92 /* ScrollViewPractice */,
+				F489442823C85DBD00B55C92 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F481FB5423C488D2002FFA96 /* Products */ = {
+		F489442823C85DBD00B55C92 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F481FB5323C488D2002FFA96 /* HomeWork_GestureRecognizer.app */,
+				F489442723C85DBD00B55C92 /* ScrollViewPractice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F481FB5523C488D2002FFA96 /* HomeWork_GestureRecognizer */ = {
+		F489442923C85DBD00B55C92 /* ScrollViewPractice */ = {
 			isa = PBXGroup;
 			children = (
-				F481FB5623C488D2002FFA96 /* AppDelegate.swift */,
-				F481FB5823C488D2002FFA96 /* SceneDelegate.swift */,
-				F481FB5A23C488D2002FFA96 /* ViewController.swift */,
-				F406731C23C5A17E00BBB1A5 /* GestureViewController.swift */,
-				F406731E23C5A97800BBB1A5 /* DelegateViewController.swift */,
-				F481FB5C23C488D2002FFA96 /* Main.storyboard */,
-				F481FB5F23C488DB002FFA96 /* Assets.xcassets */,
-				F481FB6123C488DB002FFA96 /* LaunchScreen.storyboard */,
-				F481FB6423C488DB002FFA96 /* Info.plist */,
+				F489442A23C85DBD00B55C92 /* AppDelegate.swift */,
+				F489442C23C85DBD00B55C92 /* SceneDelegate.swift */,
+				F489442E23C85DBD00B55C92 /* ViewController.swift */,
+				F489443023C85DBD00B55C92 /* Main.storyboard */,
+				F489443323C85DBE00B55C92 /* Assets.xcassets */,
+				F489443523C85DBE00B55C92 /* LaunchScreen.storyboard */,
+				F489443823C85DBE00B55C92 /* Info.plist */,
 			);
-			path = HomeWork_GestureRecognizer;
+			path = ScrollViewPractice;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F481FB5223C488D2002FFA96 /* HomeWork_GestureRecognizer */ = {
+		F489442623C85DBD00B55C92 /* ScrollViewPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F481FB6723C488DB002FFA96 /* Build configuration list for PBXNativeTarget "HomeWork_GestureRecognizer" */;
+			buildConfigurationList = F489443B23C85DBE00B55C92 /* Build configuration list for PBXNativeTarget "ScrollViewPractice" */;
 			buildPhases = (
-				F481FB4F23C488D2002FFA96 /* Sources */,
-				F481FB5023C488D2002FFA96 /* Frameworks */,
-				F481FB5123C488D2002FFA96 /* Resources */,
+				F489442323C85DBD00B55C92 /* Sources */,
+				F489442423C85DBD00B55C92 /* Frameworks */,
+				F489442523C85DBD00B55C92 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HomeWork_GestureRecognizer;
-			productName = HomeWork_GestureRecognizer;
-			productReference = F481FB5323C488D2002FFA96 /* HomeWork_GestureRecognizer.app */;
+			name = ScrollViewPractice;
+			productName = ScrollViewPractice;
+			productReference = F489442723C85DBD00B55C92 /* ScrollViewPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F481FB4B23C488D2002FFA96 /* Project object */ = {
+		F489441F23C85DBD00B55C92 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1120;
 				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = sandMan;
 				TargetAttributes = {
-					F481FB5223C488D2002FFA96 = {
+					F489442623C85DBD00B55C92 = {
 						CreatedOnToolsVersion = 11.2.1;
 					};
 				};
 			};
-			buildConfigurationList = F481FB4E23C488D2002FFA96 /* Build configuration list for PBXProject "HomeWork_GestureRecognizer" */;
+			buildConfigurationList = F489442223C85DBD00B55C92 /* Build configuration list for PBXProject "ScrollViewPractice" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = F481FB4A23C488D2002FFA96;
-			productRefGroup = F481FB5423C488D2002FFA96 /* Products */;
+			mainGroup = F489441E23C85DBD00B55C92;
+			productRefGroup = F489442823C85DBD00B55C92 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F481FB5223C488D2002FFA96 /* HomeWork_GestureRecognizer */,
+				F489442623C85DBD00B55C92 /* ScrollViewPractice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F481FB5123C488D2002FFA96 /* Resources */ = {
+		F489442523C85DBD00B55C92 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F481FB6323C488DB002FFA96 /* LaunchScreen.storyboard in Resources */,
-				F481FB6023C488DB002FFA96 /* Assets.xcassets in Resources */,
-				F481FB5E23C488D2002FFA96 /* Main.storyboard in Resources */,
+				F489443723C85DBE00B55C92 /* LaunchScreen.storyboard in Resources */,
+				F489443423C85DBE00B55C92 /* Assets.xcassets in Resources */,
+				F489443223C85DBD00B55C92 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F481FB4F23C488D2002FFA96 /* Sources */ = {
+		F489442323C85DBD00B55C92 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F406731F23C5A97800BBB1A5 /* DelegateViewController.swift in Sources */,
-				F406731D23C5A17E00BBB1A5 /* GestureViewController.swift in Sources */,
-				F481FB5B23C488D2002FFA96 /* ViewController.swift in Sources */,
-				F481FB5723C488D2002FFA96 /* AppDelegate.swift in Sources */,
-				F481FB5923C488D2002FFA96 /* SceneDelegate.swift in Sources */,
+				F489442F23C85DBD00B55C92 /* ViewController.swift in Sources */,
+				F489442B23C85DBD00B55C92 /* AppDelegate.swift in Sources */,
+				F489442D23C85DBD00B55C92 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F481FB5C23C488D2002FFA96 /* Main.storyboard */ = {
+		F489443023C85DBD00B55C92 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F481FB5D23C488D2002FFA96 /* Base */,
+				F489443123C85DBD00B55C92 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F481FB6123C488DB002FFA96 /* LaunchScreen.storyboard */ = {
+		F489443523C85DBE00B55C92 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F481FB6223C488DB002FFA96 /* Base */,
+				F489443623C85DBE00B55C92 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F481FB6523C488DB002FFA96 /* Debug */ = {
+		F489443923C85DBE00B55C92 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		F481FB6623C488DB002FFA96 /* Release */ = {
+		F489443A23C85DBE00B55C92 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -288,13 +280,13 @@
 			};
 			name = Release;
 		};
-		F481FB6823C488DB002FFA96 /* Debug */ = {
+		F489443C23C85DBE00B55C92 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 829U6KT6TF;
-				INFOPLIST_FILE = HomeWork_GestureRecognizer/Info.plist;
+				INFOPLIST_FILE = ScrollViewPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -306,13 +298,13 @@
 			};
 			name = Debug;
 		};
-		F481FB6923C488DB002FFA96 /* Release */ = {
+		F489443D23C85DBE00B55C92 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 829U6KT6TF;
-				INFOPLIST_FILE = HomeWork_GestureRecognizer/Info.plist;
+				INFOPLIST_FILE = ScrollViewPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -327,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F481FB4E23C488D2002FFA96 /* Build configuration list for PBXProject "HomeWork_GestureRecognizer" */ = {
+		F489442223C85DBD00B55C92 /* Build configuration list for PBXProject "ScrollViewPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F481FB6523C488DB002FFA96 /* Debug */,
-				F481FB6623C488DB002FFA96 /* Release */,
+				F489443923C85DBE00B55C92 /* Debug */,
+				F489443A23C85DBE00B55C92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F481FB6723C488DB002FFA96 /* Build configuration list for PBXNativeTarget "HomeWork_GestureRecognizer" */ = {
+		F489443B23C85DBE00B55C92 /* Build configuration list for PBXNativeTarget "ScrollViewPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F481FB6823C488DB002FFA96 /* Debug */,
-				F481FB6923C488DB002FFA96 /* Release */,
+				F489443C23C85DBE00B55C92 /* Debug */,
+				F489443D23C85DBE00B55C92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F481FB4B23C488D2002FFA96 /* Project object */;
+	rootObject = F489441F23C85DBD00B55C92 /* Project object */;
 }
